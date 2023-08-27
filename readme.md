@@ -1,8 +1,8 @@
-# 💫Hello, fellow Pythonistas! 🐍<br><br>Hi 👋, I'm Priyanka, a passionate Python developer from India.<br><br>🔭 I’m currently working at Cyber3ra, where I specialize in Python development. I enjoy building scalable applications.<br><br>📷 When I'm not coding, I love pursuing my photography hobby, capturing moments through my camera lens.<br><br>⚡ Fun fact: I often merge my love for photography with my programming skills, exploring creative ways to blend both passions.<br><br>📫 You can reach out to me at nikhilrai662@gmail.com. Let's discuss Python, photography, or anything tech-related!<br><br>
+# 💫Hello, fellow Pythonistas! 🐍<br><br>Hi 👋, I'm Priyanka, a passionate Python developer from India.<br><br>🔭 I’m currently working at Cyber3ra, where I specialize in Python development. I enjoy building scalable applications.<br><br>📷 When I'm not coding, I love pursuing my photography hobby, capturing moments through my camera lens.<br><br>⚡ Fun fact: I often merge my love for photography with my programming skills, exploring creative ways to blend both passions.<br><br>📫 You can reach out to me at pp874765@gmail.com. Let's discuss Python, photography, or anything tech-related!<br><br>
 
 
 ## 🌐 Socials:
-![Discord](https://discord.gg/nikhilrai662#7924) ![Facebook](https://facebook.com/nikhil.rai.5011@facebook.com) ![Instagram](https://instagram.com/officialraisahabh) ![LinkedIn](https://linkedin.com/in/nikhil-rai-551219183) ![Twitter](https://twitter.com/alexrai95138981) 
+![Discord](https://discord.gg/priyanka#6359)
 
 # 💻 Tech Stack:
 !C !C++ !CSS3 !JavaScript !Python !Azure !AWS !Vercel !Netlify !Anaconda !DjangoREST !Django !Bootstrap !FastAPI !NPM !JWT !NestJS !Next JS !NodeJS !React !React Router !Redux !Styled Components !Vue.js !Vuetify !MongoDB !MySQL !Postgres !SQLite !Adobe Lightroom !Adobe Photoshop 	!Figma !Keras !NumPy !Pandas !Docker !LINUX !Postman
