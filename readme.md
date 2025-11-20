@@ -1,55 +1,52 @@
-<!-- Dark Theme Professional GitHub Profile README -->
+<!-- Stylish Dark Theme GitHub Profile -->
 
 <h1 align="center">✨ Priyanka — Fullstack Developer</h1>
 
 <p align="center">
-  Passionate about building fast, scalable and user-friendly web applications.
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-%F0%9F%9A%80-blueviolet?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Building fast, scalable and intuitive web applications with modern technologies.
 </p>
 
 ---
 
-## 🔭 Current Role  
-**Frontend Developer at HackElite Pvt Ltd**  
-Working with **ReactJS** and **Django Rest Framework (DRF)** to develop feature-rich, high-performance web applications.
+## 🚀 About Me  
+I’m a passionate **Fullstack Developer** who enjoys turning ideas into real, functional, and aesthetic web applications.  
+Currently working as a **Frontend Developer at HackElite Pvt Ltd**, specializing in **ReactJS** and **Django Rest Framework**.
 
 ---
 
-## 💡 Skills  
-<p>
-  • ReactJS  
-  • NodeJS  
-  • JavaScript  
-  • HTML / CSS  
-  • Bootstrap  
-  • MongoDB  
-  • MySQL  
-  • ExpressJS  
-  • Python  
-  • Django  
-  • Django Rest Framework  
-  • Git & GitHub
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,express,mongodb,mysql,python,django,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🎯 Hobby  
-**Dancing**
+## 🎯 Hobbies  
+- **Dancing**  
+- **Reading Ramayan**
 
 ---
 
 ## ⚡ Fun Fact  
-I enjoy combining creativity with coding — especially while working on UI and smooth frontend animations.
+I love adding creativity into my code — especially while crafting clean UI and smooth animations.
 
 ---
 
-## 📫 Contact  
-📩 **Email:** pp874765@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/km-priyanka-87861928b  
-💻 **GitHub:** https://github.com/Marutipandey
+## 📬 Connect With Me  
+<p align="left">
+  <a href="mailto:pp874765@gmail.com"><img src="https://img.shields.io/badge/Email-pp874765@gmail.com-red?style=for-the-badge"></a><br>
+  <a href="https://www.linkedin.com/in/km-priyanka-87861928b"><img src="https://img.shields.io/badge/LinkedIn-Priyanka-blue?style=for-the-badge"></a><br>
+  <a href="https://github.com/Marutipandey"><img src="https://img.shields.io/badge/GitHub-Marutipandey-black?style=for-the-badge"></a>
+</p>
 
 ---
 
-<p align="center">🌟 Always learning. Always building. Always growing. 🌟</p>
+<p align="center">🌟 _Always learning. Always building. Always improving._ 🌟</p>
+
 
 
 
