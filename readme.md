@@ -1,4 +1,56 @@
-# 💫Hello, fellow FullStack! 🐍<br><br>Hi 👋, I'm Priyanka, a passionate Fullstack developer from India.<br><br>🔭 I’m currently working at Cyber3ra, where I specialize in Python development. I enjoy building scalable applications.<br><br>📷 When I'm not coding, I love pursuing my photography hobby, capturing moments through my camera lens.<br><br>⚡ Fun fact: I often merge my love for photography with my programming skills, exploring creative ways to blend both passions.<br><br>📫 You can reach out to me at pp874765@gmail.com. Let's discuss Python, photography, or anything tech-related! <br><br>
+<!-- Dark Theme Professional GitHub Profile README -->
+
+<h1 align="center">✨ Priyanka — Fullstack Developer</h1>
+
+<p align="center">
+  Passionate about building fast, scalable and user-friendly web applications.
+</p>
+
+---
+
+## 🔭 Current Role  
+**Frontend Developer at HackElite Pvt Ltd**  
+Working with **ReactJS** and **Django Rest Framework (DRF)** to develop feature-rich, high-performance web applications.
+
+---
+
+## 💡 Skills  
+<p>
+  • ReactJS  
+  • NodeJS  
+  • JavaScript  
+  • HTML / CSS  
+  • Bootstrap  
+  • MongoDB  
+  • MySQL  
+  • ExpressJS  
+  • Python  
+  • Django  
+  • Django Rest Framework  
+  • Git & GitHub
+</p>
+
+---
+
+## 🎯 Hobby  
+**Dancing**
+
+---
+
+## ⚡ Fun Fact  
+I enjoy combining creativity with coding — especially while working on UI and smooth frontend animations.
+
+---
+
+## 📫 Contact  
+📩 **Email:** pp874765@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/km-priyanka-87861928b  
+💻 **GitHub:** https://github.com/Marutipandey
+
+---
+
+<p align="center">🌟 Always learning. Always building. Always growing. 🌟</p>
+
 
 
 ## 🌐 Socials:
