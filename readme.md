@@ -1,63 +1,53 @@
-<!-- Stylish Dark Theme GitHub Profile -->
+<!-- Modern & Clean GitHub Profile -->
 
 <h1 align="center">✨ Priyanka — Fullstack Developer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-%F0%9F%9A%80-blueviolet?style=for-the-badge" />
-</p>
-
-<p align="center">
-  Building fast, scalable and intuitive web applications with modern technologies.
+  Passionate about building fast, scalable, and user-friendly web applications.
 </p>
 
 ---
 
-## 🚀 About Me  
-I’m a passionate **Fullstack Developer** who enjoys turning ideas into real, functional, and aesthetic web applications.  
-Currently working as a **Frontend Developer at HackElite Pvt Ltd**, specializing in **ReactJS** and **Django Rest Framework**.
+## 🔭 Current Role  
+**Frontend Developer at HackElite Pvt Ltd**  
+Working with **ReactJS** and **Django Rest Framework** to develop high-performance web apps.
 
 ---
 
 ## 💡 Skills  
-- ReactJS  
-- NodeJS  
-- JavaScript (ES6+)  
-- HTML & CSS  
-- Bootstrap / Tailwind  
-- MongoDB  
-- MySQL  
-- ExpressJS  
-- Python  
-- Django  
-- Django Rest Framework  
-- Git & GitHub
+**Frontend:**  
+- ReactJS, JavaScript (ES6+), HTML, CSS, Bootstrap, Tailwind  
 
+**Backend:**  
+- NodeJS, ExpressJS, Python, Django, Django Rest Framework  
+
+**Database:**  
+- MongoDB, MySQL  
+
+**Tools & Others:**  
+- Git, GitHub, REST APIs, JSON, Linux basics
 
 ---
 
 ## 🎯 Hobbies  
-- **Dancing**  
-- **Reading Ramayan**
+- Dancing  
+- Reading Ramayan  
 
 ---
 
 ## ⚡ Fun Fact  
-I love adding creativity into my code — especially while crafting clean UI and smooth animations.
+I enjoy mixing creativity with code — especially when working on UI, animations, and user experience.
 
 ---
 
-## 📬 Connect With Me  
-<p align="left">
-  <a href="mailto:pp874765@gmail.com"><img src="https://img.shields.io/badge/Email-pp874765@gmail.com-red?style=for-the-badge"></a><br>
-  <a href="https://www.linkedin.com/in/km-priyanka-87861928b"><img src="https://img.shields.io/badge/LinkedIn-Priyanka-blue?style=for-the-badge"></a><br>
-  <a href="https://github.com/Marutipandey"><img src="https://img.shields.io/badge/GitHub-Marutipandey-black?style=for-the-badge"></a>
-</p>
+## 📫 Contact  
+📧 **Email:** pp874765@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/km-priyanka-87861928b  
+💻 **GitHub:** https://github.com/Marutipandey
 
 ---
 
-<p align="center">🌟 _Always learning. Always building. Always improving._ 🌟</p>
-
-
+<p align="center">🌟 Always learning. Always building. Always growing. 🌟</p>
 
 
 ## 🌐 Socials:
