@@ -9,7 +9,7 @@
 ---
 
 ## 🔭 Current Role  
-**Frontend Developer at HackElite Pvt Ltd**  
+**Fullstack Developer at HackElite Pvt Ltd**  
 Working with **ReactJS** and **Django Rest Framework** to develop high-performance web apps.
 
 ---
