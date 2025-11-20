@@ -18,10 +18,20 @@ Currently working as a **Frontend Developer at HackElite Pvt Ltd**, specializing
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,express,mongodb,mysql,python,django,git,github&theme=dark" />
-</p>
+## 💡 Skills  
+- ReactJS  
+- NodeJS  
+- JavaScript (ES6+)  
+- HTML & CSS  
+- Bootstrap / Tailwind  
+- MongoDB  
+- MySQL  
+- ExpressJS  
+- Python  
+- Django  
+- Django Rest Framework  
+- Git & GitHub
+
 
 ---
 
