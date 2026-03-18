@@ -16,7 +16,7 @@ Working with **ReactJS** and **Django Rest Framework** to develop high-performan
 
 ## 💡 Skills  
 **Frontend:**  
-- ReactJS, JavaScript (ES6+), HTML, CSS, Bootstrap, Tailwind  
+- ReactJS , Nextjs , JavaScript (ES6+), HTML, CSS, Bootstrap, Tailwind  ,Material ui
 
 **Backend:**  
 - NodeJS, ExpressJS, Python, Django, Django Rest Framework  
